@@ -11,7 +11,7 @@
 
 # Overview
 
-Tapris is discord.js bot, made in [NodeJS](https://nodejs.org/).
+Zex is discord.js bot, made in [NodeJS](https://nodejs.org/).
 
 # Install
 
